@@ -1,0 +1,34 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('./background.jpg') center/cover no-repeat;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.hamburger {
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    width: 35px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    z-index: 5001; 
+    transition: transform 0.5s ease;
+}
+
+.hamburger .bar {
+    width: 100%;
+    height: 4px;
+    background-color: #fff;
+    border-radius: 2px;
+    transition: 0.4s;
+}
