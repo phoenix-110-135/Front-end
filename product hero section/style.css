@@ -3,3 +3,21 @@
     padding: 0;
     margin: 0;
 }
+
+.hero-section{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+#circle-bg{
+    background-color: #fbd2cd;
+    width: 100%;
+    height: 150%;
+    position: absolute;
+    top: -25%;
+    left: -50%;
+    z-index: -1;
+    border-radius: 0 50% 50% 0;
+}
