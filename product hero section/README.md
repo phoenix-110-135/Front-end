@@ -1,12 +1,6 @@
 # Hero Section Slide Show 🌟
 
-<div style="position: relative; text-align: center;">
-    <video controls style="width: 100%; height: auto;">
-        <source src="https://s6.uupload.ir/filelink/tPM5qjqpywSw_dcf280c28d/1_jumd.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
+![Hero Section](https://s6.uupload.ir/files/screenshot_2025-06-16_114638_5ze.png?text=Your+Project+Image) <!-- Replace with your actual project image URL -->
 
 ## 📖 Overview
 Welcome to the **Hero Section Slide Show** project! This project creates a visually stunning hero section for web pages, featuring a smooth image slideshow that transitions automatically or through manual control. With vibrant background colors and engaging animations, this slideshow is perfect for showcasing your content in a captivating way.
