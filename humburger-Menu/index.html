@@ -1,27 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>humburger menu</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Perfect Hamburger Menu</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="humburger" onclick="">
-        <div class="bar"></div>
-        <div class="bar"></div>
-        <div class="bar"></div>
-    </div>
-    <div class="menu-wrapper">
-        <nav class="menu">
-            <li><a href="#">products</a></li>
-            <li><a href="#">services</a></li>
-            <li><a href="#">about us</a></li>
-            <li><a href="#">contact</a></li>
-        </nav>
-    </div>
 
-    <div id="circle"></div>
-    <script src="script.js"></script>
+  <div class="hamburger" onclick="toggleMenu()">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+
+  <div class="menu-wrapper">
+    <nav class="menu">
+      <ul>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div id="circle"></div>
+
+  <script src="script.js"></script>
+
 </body>
 </html>
