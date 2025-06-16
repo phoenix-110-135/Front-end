@@ -24,4 +24,12 @@
 
 .img-slide{
     position: absolute;
+}  
+
+button{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    right: 100px;
+    top: 100px;
 }
