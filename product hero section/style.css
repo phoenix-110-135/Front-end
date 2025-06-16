@@ -9,6 +9,7 @@
     height: 100vh;
     overflow: hidden;
     position: relative;
+
 }
 
 #circle-bg{
@@ -23,15 +24,9 @@
 }
 
 .img-slide{
+    /* scale :-1; */
     position: absolute;
-}  
 
-button{
-    width: 200px;
-    height: 100px;
-    position: absolute;
-    right: 100px;
-    top: 100px;
 }
 
 .img-1{
@@ -46,7 +41,16 @@ button{
     animation: img-3 1.5s both;
 }
 
-@keyframes img-1{
+button{
+    width: 200px ;
+    height: 100px;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+
+}
+
+@keyframes img-1 {
     0%{
         top: -5%;
         left: -2%;
@@ -57,9 +61,10 @@ button{
         left: 17%;
         transform: scale(.9);
     }
+
 }
 
-@keyframes img-2{
+@keyframes img-2 {
     0%{
         top: -35%;
         left: -32%;
@@ -71,9 +76,10 @@ button{
         transform: scale(.5);
         filter: blur(8px);
     }
+
 }
 
-@keyframes img-3{
+@keyframes img-3 {
     0%{
         opacity: 1;
         top: 22%;
@@ -92,5 +98,6 @@ button{
         left: -32%;
         transform: scale(0);
     }
+
 }
 

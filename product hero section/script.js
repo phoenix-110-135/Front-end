@@ -26,6 +26,7 @@ const handleChangeslide = ()=> {
                 img.classList.replace(listclass[j].current,listclass[j].next);
                 document.getElementById('circle-bg').style.backgroundColor = listclass[j].bg;
                 document.getElementById('circle-bg').style.transition = '1.5s';
+                break
             }
         }
     }
