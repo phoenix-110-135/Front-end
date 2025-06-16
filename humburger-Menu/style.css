@@ -32,3 +32,33 @@ body {
     border-radius: 2px;
     transition: 0.4s;
 }
+
+body.menu-open .hamburger .bar:nth-child(1) {
+    transform: rotate(45deg) translate(8px, 10px);
+}
+
+body.menu-open .hamburger .bar:nth-child(2) {
+    opacity: 0;
+}
+
+body.menu-open .hamburger .bar:nth-child(3) {
+    transform: rotate(-45deg) translate(8px, -10px);
+}
+
+.menu-wrapper {
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    background: rgba(0, 0, 0, 0.95);
+    border-radius: 50%;
+    overflow: hidden;
+    transition: all 0.7s ease, opacity 0.5s ease;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0; 
+    pointer-events: none; 
+}
