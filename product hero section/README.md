@@ -1,6 +1,12 @@
 # Hero Section Slide Show 🌟
 
-![Hero Section](https://via.placeholder.com/800x400.png?text=Your+Project+Image) <!-- Replace with your actual project image URL -->
+<div style="position: relative; text-align: center;">
+    <video controls style="width: 100%; height: auto;">
+        <source src="https://s6.uupload.ir/filelink/tPM5qjqpywSw_dcf280c28d/1_jumd.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 
 ## 📖 Overview
 Welcome to the **Hero Section Slide Show** project! This project creates a visually stunning hero section for web pages, featuring a smooth image slideshow that transitions automatically or through manual control. With vibrant background colors and engaging animations, this slideshow is perfect for showcasing your content in a captivating way.
@@ -22,5 +28,5 @@ To run this project, you need:
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/hero-section-slideshow.git
+   git clone https://github.com/phoenix-110-135/Front-end/hero-section-slideshow.git
    cd hero-section-slideshow
