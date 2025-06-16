@@ -4,8 +4,8 @@ Welcome to the Awesome Hamburger Menu project! This project features a stylish a
 
 ## 📸 Project Images
 
-![Image 1](./image1.jpg)
-![Image 2](./image2.jpg)
+![Image 1](https://s6.uupload.ir/files/1_xgzp.png)
+![Image 2](https://s6.uupload.ir/files/2_0i06.png)
 
 ## 🚀 Features
 
@@ -27,11 +27,11 @@ The project consists of three main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/awesome-hamburger-menu.git
+   git clone https://github.com/phoenix-110-135/Front-end/hamburger-menu.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd awesome-hamburger-menu
+   cd hamburger-menu
    ```
 3. Open `index.html` in your browser to see the menu in action!
 
@@ -41,8 +41,8 @@ Feel free to submit issues or pull requests if you have suggestions or improveme
 
 ## 📧 Contact
 
-For any inquiries, please reach out to me at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries, please reach out to me at [your.email@example.com](mailto:a87h97@gmail.com).
 
 ---
 
-Enjoy using the Awesome Hamburger Menu! 🎉
+Enjoy using the Hamburger Menu! 🎉
