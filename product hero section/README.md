@@ -7,7 +7,7 @@ Welcome to the **Hero Section Slide Show** project! This project creates a visua
 
 ### 🎨 Key Features
 - **Automatic Slide Transition**: The images change every 2 seconds, keeping your audience engaged without any interaction. ⏰
-- **Manual Control**: Users can click a button to change the slide whenever they choose, offering flexibility in navigation. 🔘
+- **Manual Control**: Users can click a button to change the slide whenever they choose, offering flexibility in navigation.🔘
 - **Dynamic Background Color**: As the slides change, the background color transitions smoothly to match the current image, enhancing the visual appeal. 🎨
 - **Responsive Design**: The layout is fully responsive, ensuring it looks great on all devices, from desktops to smartphones. 📱💻
 - **Customizable**: Easily replace images and modify styles to fit your brand or personal aesthetic. ✨
