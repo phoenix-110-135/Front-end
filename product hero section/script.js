@@ -1,3 +1,4 @@
+// Define an array of objects representing the slide transitions
 let listClass = [
     {
         current : 'img-1',
@@ -18,7 +19,7 @@ let listClass = [
     }
 ]
 
-
+// add my function then loop in selectorall img-slide and replace current style with next style class
 const handleChangeSlide = ()=> {
     let images = document.querySelectorAll('.img-slide')
     for(let img of images){
@@ -33,6 +34,7 @@ const handleChangeSlide = ()=> {
     }
 }
 
+// Set an interval to automatically change slides every 2000 milliseconds (2 seconds)
 setInterval(()=>{
-    handleChangeSlide();
+    handleChangeSlide(); // call my function
 },2000)
