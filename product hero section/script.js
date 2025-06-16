@@ -30,3 +30,7 @@ const handleChangeslide = ()=> {
         }
     }
 }
+
+setInterval(()=>{
+    handleChangeslide();
+},2000)
