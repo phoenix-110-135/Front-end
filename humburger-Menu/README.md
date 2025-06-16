@@ -41,7 +41,7 @@ Feel free to submit issues or pull requests if you have suggestions or improveme
 
 ## 📧 Contact
 
-For any inquiries, please reach out to me at [your.email@example.com](mailto:a87h97@gmail.com).
+For any inquiries, please reach out to me at [a87h97@gmail.com](mailto:a87h97@gmail.com).
 
 ---
 
